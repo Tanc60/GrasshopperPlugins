@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "svh/GNb6oCAaRVnfS44gZDFDVvC6fIftYOYrdvu1Io4Q7UObit2ycJcJKyQ/+GJrqkQTQG87lBjgBN96hZEN+w==",
+  "success": true,
+  "projectFilePath": "D:\\ZQ\\GitHub\\GrasshopperPlugins\\CGALTools\\CGALTools\\CGALTools.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zq35157\\.nuget\\packages\\grasshopper\\7.13.21348.13001\\grasshopper.7.13.21348.13001.nupkg.sha512",
+    "C:\\Users\\zq35157\\.nuget\\packages\\rhinocommon\\7.13.21348.13001\\rhinocommon.7.13.21348.13001.nupkg.sha512"
+  ],
+  "logs": []
+}
