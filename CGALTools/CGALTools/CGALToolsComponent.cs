@@ -10,7 +10,7 @@ namespace CGALTools
     public class CGALToolsComponent : GH_Component
     {
         public CGALToolsComponent()
-          : base("CGALOffset", "CGALOffset",
+          : base("PolygonOffset", "PolygonOffset",
             "Offset Tool",
             "CGAL", "Tools")
         {
@@ -18,8 +18,8 @@ namespace CGALTools
 
         protected override void RegisterInputParams(GH_Component.GH_InputParamManager pManager)
         {
-            pManager.AddCurveParameter("Polygon", "P", "Offset Polygon", GH_ParamAccess.item);
-            pManager.AddNumberParameter("Distance", "D", "Amount to offset", GH_ParamAccess.item, 1);
+            pManager.AddCurveParameter("Polygon", "P", "Polygon to Offset", GH_ParamAccess.item);
+            pManager.AddNumberParameter("Distance", "D", "Offset Distance", GH_ParamAccess.item, 1);
         }
 
         protected override void RegisterOutputParams(GH_Component.GH_OutputParamManager pManager)
