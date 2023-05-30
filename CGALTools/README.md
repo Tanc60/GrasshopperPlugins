@@ -2,9 +2,10 @@
 
 ## CGAL Polygon Offset
 
-A simple but robust offset tool for Simple Polygon using [CGAL polygon offsetting library](https://doc.cgal.org/latest/Straight_skeleton_2/index.html#Chapter_2D_Straight_Skeleton_and_Polygon_Offsetting). Forked from [CGALDotNet](https://github.com/Scrawk/CGALDotNet)
+A simple but robust offset tool for Simple Polygon using [2D Straight Skeleton and Polygon Offsetting
+](https://doc.cgal.org/latest/Straight_skeleton_2/index.html#Chapter_2D_Straight_Skeleton_and_Polygon_Offsetting). Forked from [CGALDotNet](https://github.com/Scrawk/CGALDotNet)
 
-The built in Grasshopper offset tools may become unstable when offseted lines intersect.
+The built in Grasshopper offset tools may be unstable when offsetted lines intersect.
 <div align="center">
 	<img src="https://github.com/Tanc60/GrasshopperPlugins/blob/main/CGALTools/doc/294469de-505e-47e9-90a3-0bfe19c1cd9b.gif"  width="600">
   <img src="https://github.com/Tanc60/GrasshopperPlugins/blob/main/CGALTools/doc/445f7be8-d690-42d4-b2fd-09975c84428a.gif"  width="600">
