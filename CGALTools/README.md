@@ -14,3 +14,5 @@ This polygon offset tool is robust and can handle multi intersection.
 This tool is for Simple Polygon ONLY. Curve and open polylines are not supported.
 
 ![](https://github.com/Tanc60/GrasshopperPlugins/blob/main/CGALTools/doc/171c4d38-8be4-4ce2-b873-994e41084347.gif)
+
+![](https://github.com/Tanc60/GrasshopperPlugins/blob/main/CGALTools/doc/6889d627-7a40-4eb6-950f-2f8673460401.gif)
