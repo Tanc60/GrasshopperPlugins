@@ -22,5 +22,5 @@ This polygon offset tool is robust and can handle multi intersection.
 
 ## Note
 
-For Simple Polygon ONLY. Curve and open polylines are not supported.
+For Simple Polygon (A polygon that does not intersect itself and has no holes) ONLY. Curve and open polylines are not supported.
 
