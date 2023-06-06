@@ -1,0 +1,14 @@
+D:\ZQ\GitHub\GrasshopperPlugins\CommandManager\CommandManager\bin\Debug\net48\CommandManager.rhp
+D:\ZQ\GitHub\GrasshopperPlugins\CommandManager\CommandManager\bin\Debug\net48\CommandManager.pdb
+D:\ZQ\GitHub\GrasshopperPlugins\CommandManager\CommandManager\obj\Debug\net48\CommandManager.csproj.AssemblyReference.cache
+D:\ZQ\GitHub\GrasshopperPlugins\CommandManager\CommandManager\obj\Debug\net48\CommandManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\ZQ\GitHub\GrasshopperPlugins\CommandManager\CommandManager\obj\Debug\net48\CommandManager.AssemblyInfoInputs.cache
+D:\ZQ\GitHub\GrasshopperPlugins\CommandManager\CommandManager\obj\Debug\net48\CommandManager.AssemblyInfo.cs
+D:\ZQ\GitHub\GrasshopperPlugins\CommandManager\CommandManager\obj\Debug\net48\CommandManager.csproj.CoreCompileInputs.cache
+D:\ZQ\GitHub\GrasshopperPlugins\CommandManager\CommandManager\obj\Debug\net48\CommandManager.rhp
+D:\ZQ\GitHub\GrasshopperPlugins\CommandManager\CommandManager\obj\Debug\net48\CommandManager.pdb
+D:\ZQ\GitHub\GrasshopperPlugins\CommandManager\CommandManager\obj\Debug\net48\Windows\CommandManagerWindow.g.cs
+D:\ZQ\GitHub\GrasshopperPlugins\CommandManager\CommandManager\obj\Debug\net48\CommandManager_MarkupCompile.cache
+D:\ZQ\GitHub\GrasshopperPlugins\CommandManager\CommandManager\obj\Debug\net48\CommandManager_MarkupCompile.lref
+D:\ZQ\GitHub\GrasshopperPlugins\CommandManager\CommandManager\obj\Debug\net48\Windows\CommandManagerWindow.baml
+D:\ZQ\GitHub\GrasshopperPlugins\CommandManager\CommandManager\obj\Debug\net48\CommandManager.g.resources

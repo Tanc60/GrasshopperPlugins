@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FWYXVHk3pFh82LofAWFnn4Qocpvb8prRmjbXMOQRXeZDqu/KXzuvAeQtuwKHvw4VhG62CQv6PIGBroB29hhLlw==",
+  "success": true,
+  "projectFilePath": "D:\\ZQ\\GitHub\\GrasshopperPlugins\\CommandManager\\TestPlugin\\TestPlugin.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zq35157\\.nuget\\packages\\rhinocommon\\7.13.21348.13001\\rhinocommon.7.13.21348.13001.nupkg.sha512"
+  ],
+  "logs": []
+}

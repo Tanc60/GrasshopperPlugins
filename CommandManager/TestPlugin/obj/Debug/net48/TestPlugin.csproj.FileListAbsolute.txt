@@ -1,0 +1,9 @@
+D:\ZQ\GitHub\GrasshopperPlugins\CommandManager\TestPlugin\bin\Debug\net48\TestPlugin.rhp
+D:\ZQ\GitHub\GrasshopperPlugins\CommandManager\TestPlugin\bin\Debug\net48\TestPlugin.pdb
+D:\ZQ\GitHub\GrasshopperPlugins\CommandManager\TestPlugin\obj\Debug\net48\TestPlugin.csproj.AssemblyReference.cache
+D:\ZQ\GitHub\GrasshopperPlugins\CommandManager\TestPlugin\obj\Debug\net48\TestPlugin.GeneratedMSBuildEditorConfig.editorconfig
+D:\ZQ\GitHub\GrasshopperPlugins\CommandManager\TestPlugin\obj\Debug\net48\TestPlugin.AssemblyInfoInputs.cache
+D:\ZQ\GitHub\GrasshopperPlugins\CommandManager\TestPlugin\obj\Debug\net48\TestPlugin.AssemblyInfo.cs
+D:\ZQ\GitHub\GrasshopperPlugins\CommandManager\TestPlugin\obj\Debug\net48\TestPlugin.csproj.CoreCompileInputs.cache
+D:\ZQ\GitHub\GrasshopperPlugins\CommandManager\TestPlugin\obj\Debug\net48\TestPlugin.rhp
+D:\ZQ\GitHub\GrasshopperPlugins\CommandManager\TestPlugin\obj\Debug\net48\TestPlugin.pdb

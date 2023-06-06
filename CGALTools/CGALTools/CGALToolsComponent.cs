@@ -55,11 +55,11 @@ namespace CGALTools
             Array.Resize(ref points, points.Length - 1);
 
             //calculator the offset result
-            var interiorList = PolygonOffset.OffsetPolygon(GeometryConversion.RhinoPoint3ds2CGALPoint2ds(points), distance);
+            var resList = PolygonOffset.OffsetPolygon(GeometryConversion.RhinoPoint3ds2CGALPoint2ds(points), distance);
             List<GH_Curve> result = new List<GH_Curve>();
-            foreach (var interior in interiorList)
+            foreach (var res in resList)
             {
-                var pointArray = GeometryConversion.CGALPolygon22RhinoPoint3ds(interior);
+                var pointArray = GeometryConversion.CGALPolygon22RhinoPoint3ds(res);
                 Array.Resize(ref pointArray, pointArray.Length + 1);
                 pointArray[pointArray.Length - 1] = pointArray[0];
                 var resPolygon = new PolylineCurve(pointArray);
