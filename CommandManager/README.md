@@ -8,4 +8,9 @@ This tool use Reflection to load and unload external library dynamically.
 <div align="center">
     <img src="https://github.com/Tanc60/GrasshopperPlugins/blob/main/CommandManager/CommandManager/resouces/Snipaste_2023-06-06_15-34-04.png"  width="450">
 </div>
+click "load" to load dll(rhp) file
+click run to run.
+## Note
+1. Currently only support single RunCommand method in target assembly, other overwrite of the Rhino Command class have not been considered.
+2. Only for test.
 
